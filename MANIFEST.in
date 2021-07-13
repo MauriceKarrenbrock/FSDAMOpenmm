@@ -1,0 +1,8 @@
+# add to distribution
+include LICENSE.txt
+include README.md
+include requirements.txt
+
+# Include the data files
+#recursive-include data *
+#graft data
